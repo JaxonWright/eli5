@@ -1,10 +1,20 @@
 group 'jaxzac'
 version '0.1'
 
+buildscript {
+    repositories { jcenter() }
+
+    dependencies {
+        classpath 'com.github.jengelman.gradle.plugins:shadow:1.2.3'
+    }
+}
+
 apply plugin: 'groovy'
 apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'com.github.johnrengelman.shadow'
 
-sourceCompatibility = 1.5
+mainClassName = "Main"
 
 repositories {
     mavenCentral()

@@ -67,7 +67,7 @@ public class Main {
         }
         for (Submission link : p.next()) {
             System.out.println(LINE);
-            System.out.printf("%s↑ - %s (%s)\n", link.getScore(), link.getTitle(), link.getShortURL());
+            System.out.printf("%s upvotes - %s (%s)\n", link.getScore(), link.getTitle(), link.getShortURL());
             System.out.print("\tcalculating 5-year-oldness");
             calculateReadability(redditClient, link);
         }

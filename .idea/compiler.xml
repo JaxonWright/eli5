@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="eli5_main" target="1.5" />
-      <module name="eli5_test" target="1.5" />
+      <module name="eli5_main" target="1.8" />
+      <module name="eli5_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
