@@ -1,0 +1,19 @@
+group 'jaxzac'
+version '0.1'
+
+apply plugin: 'groovy'
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    compile fileTree(dir: 'lib', include: '*.jar')
+    compile 'org.codehaus.groovy:groovy-all:2.3.11'
+    compile "net.dean.jraw:JRAW:0.8.0"
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}
