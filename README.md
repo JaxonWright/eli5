@@ -9,7 +9,7 @@ Use It
 ---
 Follow these steps to use the program:
 
- 1. Download the [eli5.zip](https://goo.gl/xlsBk3)
+ 1. Download the [eli5.zip](https://goo.gl/tTaStM)
  2. Extract the file
  3. open *run.bat*
  
