@@ -9,9 +9,15 @@ Use It
 ---
 Follow these steps to use the program:
 
+#### Windows
  1. Download the [eli5.zip](https://git.io/vwtcl)
  2. Extract the file
  3. open *run.bat*
+
+#### Linux
+ 1. Download the [eli5.zip](https://git.io/vwtcl)
+ 2. Extract the file
+ 3. enter "java -jar [path to jar]" in terminal
  
 Yes, it runs in the command line. Deal with it.
 
