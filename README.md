@@ -21,6 +21,12 @@ Follow these steps to use the program:
  
 Yes, it runs in the command line. Deal with it.
 
+### Commands
+ 1. [search terms]
+ 2. -sort [hot, top, new] [search terms]
+ 3. -maxcount [#] [search terms]
+ 4. -sort [hot, top, new] -maxcount [#] [search terms]
+ 5. -help
 
 3rd Party Libraries Used
 ----
