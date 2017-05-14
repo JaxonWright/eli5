@@ -1,4 +1,4 @@
-<img src="https://github.com/JaxonWright/jaxonwright.github.io/blob/master/eli5logo.png?raw=true" width="150px" alt="eli5" />
+<img src="http://i.imgur.com/VNfY78v.png" width="150px" alt="eli5" />
 ===================
 
 About
