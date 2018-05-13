@@ -1,5 +1,4 @@
 <img src="http://i.imgur.com/VNfY78v.png" width="150px" alt="eli5" />
-===================
 
 About
 -----
