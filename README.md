@@ -5,6 +5,12 @@ About
 -----
 This project was created for CIS 365 Artificial Intelligence at Grand Valley State University by Jaxon Wright and Zack Patterson. The project scrapes posts on the eli5 (Explain Like I'm Five) subreddit on Reddit. The goal is to take the user's query and determine the reading level of the highest-rated comments and presents it to the user, so that they can make informed decisions about threads based on how easy the explanations are to understand.
 
+Preview
+---
+Here is what the program looks like. Formatted pretty nicely for a terminal program, eh?
+
+<img src="https://i.imgur.com/VVYclGs.png" width="500px" alt="screen1" />
+
 Use It
 ---
 Follow these steps to use the program:
